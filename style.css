@@ -307,6 +307,21 @@ body {
     line-height: 1.5;
 }
 
+.paper-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.paper-btn{
+    background-color: #ff4fa3;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
+}
+
 /* Projects */
 .projects-grid {
     display: grid;
